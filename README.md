@@ -1,5 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/m4gen/m4gen/main/wave.gif" width="30">
-
+My name is Alessandro, I love the process of seeing how a "Hello World" becomes a great project. 
 <!--
 **m4gen/m4gen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,3 +22,7 @@ Here are some ideas to get you started:
 ![CSS3](https://img.shields.io/badge/CSS-1976D2?style=for-the-badge&logo=CSS3&logoColor=FFFFFF)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)
 ![Kotlin](https://img.shields.io/badge/Kotlin-8E24AA?style=for-the-badge&logo=Kotlin&logoColor=FFFFFF)
+
+
+## Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m4gen&hide_progress=true)
