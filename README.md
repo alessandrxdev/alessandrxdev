@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)
 ![Kotlin](https://img.shields.io/badge/Kotlin-8E24AA?style=for-the-badge&logo=Kotlin&logoColor=FFFFFF)
 
+## Stats
+![stats](https://github-readme-stats.vercel.app/api?username=m4gen&show_icons=true&theme=dark)
 
 ## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m4gen&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m4gen&hide_progress=true&theme=dark)
