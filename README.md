@@ -1,5 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/m4gen/m4gen/main/wave.gif" width="30">
-My name is Alessandro, I love the process of seeing how a "Hello World" becomes a great project. 
+My name is Alessandro, I love the process of seeing how a "Hello World" becomes a great project. I create things in Java
 <!--
 **m4gen/m4gen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
